@@ -1,0 +1,46 @@
+body{
+    background-image: url(../imagen/im2.jpg);
+}
+.form-container{
+    width: 400px;
+    height: 600px;
+    background-color: rgba(255, 85, 0, 0.696);
+    
+    margin: 0 auto;
+    margin-top: 50px;
+    border: 1px solid #ccc ;
+    border-radius: 20px;
+    padding: 10px 20px;
+    color: #333;
+    box-sizing: border-box;
+    box-shadow: 10px 15px 40px blanchedalmond;
+    cursor: pointer;
+}
+input{
+    width: 70%;
+    margin-left: 70px;
+    margin-bottom: 7px;
+    padding: 8px;
+    border: 3px solid ;
+    border-radius: 10px;
+    cursor: pointer;
+}
+h1,p{
+    color: black;
+   text-align: center;
+   padding: 10px;
+   padding-bottom: 5px;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   margin-top: 30px;
+   font-size: 32px;
+}
+button {
+    background-color: darkblue;
+    color: lightgoldenrodyellow;
+    padding: 8px;
+    margin: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    width:70%;
+    margin-left: 70px;
+}
